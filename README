@@ -8,3 +8,15 @@ J’ai testé cette stratégie sur plusieurs cryptomonnaies, mais principalement
 J’ai ajusté les moyennes mobiles ainsi que les niveaux de *stop-loss* afin d’obtenir un profit maximal avec un drawdown minimal.
 
 J’ai utilisé une API de Binance, que j’ai configurée en privé car elle est personnelle. Pour tester mon code, il suffit d’utiliser l’API GitHub qui fournit l’accès à un portefeuille Binance virtuel.
+
+
+Good morning, members of the jury,
+
+My name is Vadim Malisev. I am currently in my third year at Sorbonne University, pursuing a Bachelor's degree in Mathematics and Computer Science.
+
+In this project, I test a strategy based on *Fair Value Gaps*. This occurs when there is an unfilled gap between the high of the previous candlestick and the low of the following candlestick.
+
+I tested this strategy on several cryptocurrencies, but mainly on Bitcoin (BTC).
+I adjusted the moving averages as well as the stop-loss levels in order to achieve maximum profit with minimal drawdown.
+
+I used the Binance API, which I set to private because it is personal. To test my code, it is sufficient to use the GitHub API that provides access to a virtual Binance portfolio.
